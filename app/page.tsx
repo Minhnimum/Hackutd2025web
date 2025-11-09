@@ -67,7 +67,7 @@ export default function Home() {
               ></div>
               <h3 className="text-2xl font-bold text-gray-800 mb-3">Environment</h3>
               <p className="text-gray-600">
-                Sensors monitor your room's humidity, air quality, and temperature to optimize your study environment.
+                Sensors monitor your room&apos;s humidity, air quality, and temperature to optimize your study environment.
               </p>
             </div>
 
